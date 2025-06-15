@@ -1,0 +1,822 @@
+<ORDERS>
+    <ORDER>
+        <KeyOrder>TR294183R00001</KeyOrder>
+        <Keymachine>Grob G350</Keymachine>
+        <TOOL>
+            <KeyToolId>1_TR294183R00001</KeyToolId>
+            <TNumber>1</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>FREZA HM D20 XN1050</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Freza Valcova</ToolTypeDesc>
+            <Holdernumber>XN05000</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>3750</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>166</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>10</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <Z>156</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>120</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>2_TR294183R00001</KeyToolId>
+            <TNumber>2</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>Freza HRUB HM D10 XN99</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Freza Valcova</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>6500</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>142</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>5</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <Z>132</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>120</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>3_TR294183R00001</KeyToolId>
+            <TNumber>3</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>FREZA HM D20 XN81</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Freza Valcova</ToolTypeDesc>
+            <Holdernumber>XN05000</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>4375</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>166</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>10</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <Z>156</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>120</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>4_TR294183R00001</KeyToolId>
+            <TNumber>4</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>FREZA HM D8 XN93</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Freza Valcova</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>10000</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>139</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>4</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <Z>129</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>120</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>5_TR294183R00001</KeyToolId>
+            <TNumber>5</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>VRTAK VHM D10,2 XN427</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Vrtak</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>4375</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>185</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>5.1</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <RuleX>3</RuleX>
+                <Z>175</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>200</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>6_TR294183R00001</KeyToolId>
+            <TNumber>6</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>VRTAK VHM D5,55 XN390</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Vrtak</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>9000</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>151</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>2.775</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <RuleX>3</RuleX>
+                <Z>141</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>200</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>7_TR294183R00001</KeyToolId>
+            <TNumber>7</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>VRTAK VHM D3,9 XN297</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Vrtak</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>9125</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>139</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>1.95</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <RuleX>3</RuleX>
+                <Z>129</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>200</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>8_TR294183R00001</KeyToolId>
+            <TNumber>8</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>ODHROTOVAC D10/90 XN159</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Navrtavak</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>16000</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>140</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>5</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+		<RuleX>3</RuleX>
+                <Z>130</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>220</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>9_TR294183R00001</KeyToolId>
+            <TNumber>9</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>ZAVITNIK TVARECI M6 XN1053</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Zavitnik</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>1375</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>149</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>3</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <RuleX>3</RuleX>
+                <Z>139</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>240</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+        <TOOL>
+            <KeyToolId>10_TR294183R00001</KeyToolId>
+            <TNumber>10</TNumber>
+            <KeyDuploTool>1</KeyDuploTool>
+            <ToolDescription>VYSTRUZNIK VHM D4 F7 +0,028/+0,01</ToolDescription>
+            <KeyMachine>Grob G350</KeyMachine>
+            <AdapterDesc>None</AdapterDesc>
+            <ToolTypeDesc>Vystruznik</ToolTypeDesc>
+            <Holdernumber>XN05002</Holdernumber>
+            <AdditionalFields>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Sister tool number</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool life monitoring</Key>
+                    <Value>0</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Tool breakage check</Key>
+                    <Value>1</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Coolant high preasure</Key>
+                    <Value>40</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum spindel turns</Key>
+                    <Value>750</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool length</Key>
+                    <Value>156</Value>
+                </AdditionalField>
+                <AdditionalField>
+                    <Namespace>Secheron</Namespace>
+                    <Key>Maximum tool radius</Key>
+                    <Value>31</Value>
+                </AdditionalField>
+            </AdditionalFields>
+            <STAGE>
+                <CutCount>2</CutCount>
+                <X>2</X>
+                <UX>0.25</UX>
+                <LX>-0.25</LX>
+                <RuleX>3</RuleX>
+                <Z>146</Z>
+                <UZ>0.5</UZ>
+                <LZ>-0.5</LZ>
+                <R>0</R>
+                <UR>0</UR>
+                <LR>0</LR>
+                <AdditionalFields>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value time</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool life value parts</Key>
+                        <Value>0</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Tool type</Key>
+                        <Value>250</Value>
+                    </AdditionalField>
+                    <AdditionalField>
+                        <Namespace>Secheron</Namespace>
+                        <Key>Cutting edge position</Key>
+                        <Value>9</Value>
+                    </AdditionalField>
+                </AdditionalFields>
+            </STAGE>
+        </TOOL>
+    </ORDER>
+</ORDERS>
