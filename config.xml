@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <configuration>
-  <comport>COM4</comport>
-  <homedir>\home\</homedir>
+  <comport>/dev/ttyUSB0</comport>
+  <homedir>/home/</homedir>
   <pitch>8.0</pitch>
   <stp_rev>200.0</stp_rev>
   <max_travel>283.0</max_travel>
